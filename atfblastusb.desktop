@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=ATFBlastUSB
+Type=Application
+Exec=/usr/local/bin/atfblastusb
+Comment=Minimal GAL and SPLD programmer
+Terminal=false
+Icon=/usr/share/icons/atfblastusb.xpm
+NoDisplay=false
+Categories=Utility;
+Name[en]=atfblastusb.desktop
